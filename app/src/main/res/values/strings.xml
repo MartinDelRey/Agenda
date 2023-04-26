@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="titulo_ventana">Personas</string>
+    <string name="titulo_subventana">Agregar Persona</string>
+    <string name="hint_nombre">" Agregar un Nombre"</string>
+    <string name="hint_apellido">Agregar Un Apellido</string>
+    <string name="hint_edad">Agregar una edad</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="editPersona">Editar Persona</string>
+</resources>
